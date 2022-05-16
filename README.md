@@ -1,1 +1,1 @@
-# learn_html_css
+# Repository to learn html and css
